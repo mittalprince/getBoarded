@@ -1,6 +1,6 @@
 <template>
   
-  <footer class="page-footer font-small pt-4" style="background-color:#e3f2fd">
+  <footer class="page-footer font-small pt-4" style="background-color:#DCDCDC">
     <div class="container-fluid text-center text-md-left">
       <div class="row">
         <div class="col-md-6 mt-md-0 mt-3">
@@ -38,9 +38,9 @@
       </div>
     </div>
 
-    <div class="footer-copyright text-center py-3" style="background-color:#40E0D0;">© 2019 Copyright:
-      <a href="/"> Event-Appa</a>
+    <div class="footer-copyright text-center py-3" style="background-color:#5F9EA0;">© 2019 Copyright:
+      <a href="/"> getBoarded</a>
     </div>
   </footer>
-  
+
 </template>
